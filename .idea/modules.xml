@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/QuizApp-Android.iml" filepath="$PROJECT_DIR$/QuizApp-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuizApp-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/QuizApp-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QuizApp-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QuizApp-Android.app.iml" />
     </modules>
   </component>
