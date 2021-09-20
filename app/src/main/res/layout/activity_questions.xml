@@ -26,8 +26,8 @@
         android:layout_alignStart="@+id/DispName"
         android:id="@+id/answersgrp"
         android:clickable="true"
-        android:layout_centerVertical="true"
-        android:layout>
+        android:layout_centerVertical="true">
+        <!--android:layout-->
         <!--android:checkedButton="@+id/radioButton"-->
 
 
