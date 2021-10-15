@@ -26,6 +26,12 @@ public class MainActivity extends AppCompatActivity {
                         String name=nametext.getText().toString();
                         Intent intent=new Intent(getApplicationContext(),QuestionsActivity.class);
                         intent.putExtra("myname",name);
+                        if (name.trim().equals(""))
+                        {
+                            Toast.makeText(getApplicationContext(), "Please enter a valid username", Toast.LENGTH_SHORT).show();
+                            return;
+                        }
+                        else
                         startActivity(intent);
                     }
                 });
