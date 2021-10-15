@@ -10,7 +10,7 @@ QuizBee is an android based application, and enables the user to undertake a ser
 <li> <b>Results </b>– displays Results after finishing the quiz.
 <li> <b>Developers </b>– displays the information about the developers.</ol>
 
-## Sreenshot
+## Screenshot
 
 <p id="img_cont">
 	<img src="/screenshot/pic1.png" width = "200" height= "350" hspace=40>
