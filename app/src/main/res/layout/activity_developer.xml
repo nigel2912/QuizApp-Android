@@ -113,5 +113,4 @@
         android:layout_alignParentRight="false"
         android:layout_alignParentBottom="false"
         android:src="@drawable/sushant" />
-
 </RelativeLayout>
